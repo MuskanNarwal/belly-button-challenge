@@ -84,4 +84,4 @@ This function is triggered when a new sample is selected from the dropdown. It r
 - When the user selects a new sample, the **`optionChanged()`** function is triggered, which rebuilds the charts and metadata with the newly selected sample.
 
 
-
+edX - Xpert Learning Assistant and Tutor Help: This  was developed with the support of edX - Xpert Learning Assistant and Tutor Help, which provided valuable guidance in understanding the concepts and formulate the code.
